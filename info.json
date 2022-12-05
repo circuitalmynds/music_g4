@@ -1,5 +1,118 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "ITbwOXBEk88",
+            "name": "Too Experienced - Barrington Levy Lyric Video-ITbwOXBEk88.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Too Experienced - Barrington Levy Lyric Video-ITbwOXBEk88.mp4",
+            "size": 5.753177,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Too Experienced - Barrington Levy Lyric Video-ITbwOXBEk88.mp4?raw=true"
+        },
+        {
+            "id": "4yv2fUOMJxY",
+            "name": "Saint-Sa\u00ebns - Piano Concerto No. 2-4yv2fUOMJxY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Saint-Sa\u00ebns - Piano Concerto No. 2-4yv2fUOMJxY.mp4",
+            "size": 57.394442,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Saint-Sa\u00ebns - Piano Concerto No. 2-4yv2fUOMJxY.mp4?raw=true"
+        },
+        {
+            "id": "U0CISZe9lMc",
+            "name": "Liszt - Im Rhein, im sch\u00f6nen Strome, S.272-U0CISZe9lMc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Liszt - Im Rhein, im sch\u00f6nen Strome, S.272-U0CISZe9lMc.mp4",
+            "size": 1.607114,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Liszt - Im Rhein, im sch\u00f6nen Strome, S.272-U0CISZe9lMc.mp4?raw=true"
+        },
+        {
+            "id": "cp19fsWsm0Y",
+            "name": "Liszt - Hungarian Rhapsody No. 4 in D minor, S.359 No. 4 (Corresponds piano versionNo. 12 in C...-cp19fsWsm0Y.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Liszt - Hungarian Rhapsody No. 4 in D minor, S.359 No. 4 (Corresponds piano versionNo. 12 in C...-cp19fsWsm0Y.mp4",
+            "size": 6.544339,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Liszt - Hungarian Rhapsody No. 4 in D minor, S.359 No. 4 (Corresponds piano versionNo. 12 in C...-cp19fsWsm0Y.mp4?raw=true"
+        },
+        {
+            "id": "_A_oIh27ImQ",
+            "name": "Liszt - A Faust Symphony, S.108 - 2. Gretchen (Live)-_A_oIh27ImQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Liszt - A Faust Symphony, S.108 - 2. Gretchen (Live)-_A_oIh27ImQ.mp4",
+            "size": 12.383419,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Liszt - A Faust Symphony, S.108 - 2. Gretchen (Live)-_A_oIh27ImQ.mp4?raw=true"
+        },
+        {
+            "id": "DHOF1fm5ZXc",
+            "name": "Liszt - Fun\u00e9railles-DHOF1fm5ZXc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Liszt - Fun\u00e9railles-DHOF1fm5ZXc.mp4",
+            "size": 7.951568999999999,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Liszt - Fun\u00e9railles-DHOF1fm5ZXc.mp4?raw=true"
+        },
+        {
+            "id": "tKwbkJqlQtw",
+            "name": "Let Yourself Go (From 'Follow the Fleet')-tKwbkJqlQtw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Let Yourself Go (From 'Follow the Fleet')-tKwbkJqlQtw.mp4",
+            "size": 3.7840949999999998,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Let Yourself Go (From 'Follow the Fleet')-tKwbkJqlQtw.mp4?raw=true"
+        },
+        {
+            "id": "HAJWwkXNLTQ",
+            "name": "Love In Time-HAJWwkXNLTQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Love In Time-HAJWwkXNLTQ.mp4",
+            "size": 3.6642379999999997,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Love In Time-HAJWwkXNLTQ.mp4?raw=true"
+        },
+        {
+            "id": "wp-TwkViUUE",
+            "name": "Liszt - Les pr\u00e9ludes, S. 97-wp-TwkViUUE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Liszt - Les pr\u00e9ludes, S. 97-wp-TwkViUUE.mp4",
+            "size": 10.864542,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Liszt - Les pr\u00e9ludes, S. 97-wp-TwkViUUE.mp4?raw=true"
+        },
+        {
+            "id": "LR9msTsmpZs",
+            "name": "Dvorak - Humoresque (original)-LR9msTsmpZs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Dvorak - Humoresque (original)-LR9msTsmpZs.mp4",
+            "size": 7.558230999999999,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Dvorak - Humoresque (original)-LR9msTsmpZs.mp4?raw=true"
+        },
+        {
+            "id": "_9YJ9sb1-Rk",
+            "name": "Can't Turn Your Back On Me-_9YJ9sb1-Rk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Can't Turn Your Back On Me-_9YJ9sb1-Rk.mp4",
+            "size": 4.983039,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Can't Turn Your Back On Me-_9YJ9sb1-Rk.mp4?raw=true"
+        },
+        {
+            "id": "HN9cO6PfS58",
+            "name": "No. 6 - Vivace-HN9cO6PfS58.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/No. 6 - Vivace-HN9cO6PfS58.mp4",
+            "size": 3.9507329999999996,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/No. 6 - Vivace-HN9cO6PfS58.mp4?raw=true"
+        },
+        {
+            "id": "W-MgRH7eJUU",
+            "name": "Liszt, Wagner - Ballade From The Flying Dutchman, S.441-W-MgRH7eJUU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Liszt, Wagner - Ballade From The Flying Dutchman, S.441-W-MgRH7eJUU.mp4",
+            "size": 3.730877,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Liszt, Wagner - Ballade From The Flying Dutchman, S.441-W-MgRH7eJUU.mp4?raw=true"
+        },
+        {
+            "id": "GrP42-0tIro",
+            "name": "State Farm-GrP42-0tIro.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/State Farm-GrP42-0tIro.mp4",
+            "size": 5.907153,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/State Farm-GrP42-0tIro.mp4?raw=true"
+        },
+        {
+            "id": "dceQg1gKaj4",
+            "name": "Liszt - Orpheus, symphonic poem No. 4, S.98-dceQg1gKaj4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Liszt - Orpheus, symphonic poem No. 4, S.98-dceQg1gKaj4.mp4",
+            "size": 7.2663519999999995,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Liszt - Orpheus, symphonic poem No. 4, S.98-dceQg1gKaj4.mp4?raw=true"
+        },
+        {
+            "id": "GC7vA5pMtcg",
+            "name": "Finale Ultimo-GC7vA5pMtcg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g4/videos/Finale Ultimo-GC7vA5pMtcg.mp4",
+            "size": 2.060388,
+            "url": "https://github.com/circuitalmynds/music_g4/blob/main/videos/Finale Ultimo-GC7vA5pMtcg.mp4?raw=true"
+        }
+    ],
+    "total_size": 145.403708
 }
